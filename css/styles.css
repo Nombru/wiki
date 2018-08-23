@@ -1,0 +1,30 @@
+.main_Heading {
+text-align: center;
+}
+
+p{
+
+}
+
+.container{
+  width: 100%;
+
+}
+
+.panel-primary > .panel-heading {
+  background-color: #DEACE5;
+  border-color: #DEACE5;
+  color: purple;
+}
+
+.panel-primary {
+  border-color: #DEACE5;
+}
+
+.panel .panel-default {
+  padding-right: 15px;
+  padding-left: 15px;}
+
+.thumbnail{
+  border: none;
+}
